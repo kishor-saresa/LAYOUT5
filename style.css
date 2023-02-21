@@ -1,0 +1,12 @@
+.header_section{
+    padding-top: 20px;
+}
+.header_section,h2{
+
+}
+.header_section,sub{
+    top: 20px; 
+}
+.content_part{
+    background-color:#f19969bf ;
+}
