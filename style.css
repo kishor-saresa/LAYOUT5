@@ -85,9 +85,9 @@ span{
     left: 5%;
 }
 .doshbox  h2{
-    font-size: 700%;
+    font-size: 700%;    
     font-weight: 1000;
-    letter-spacing: 5px;
+    letter-spacing:7px;
     z-index: 1;
     position: relative;
 }
