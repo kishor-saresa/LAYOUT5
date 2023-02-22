@@ -50,6 +50,7 @@ span{
 .options li{
     list-style: none;
     padding: 0.5%;
+    margin-top: 25px;
 }
 .footer{
     margin-top: 10%
@@ -82,9 +83,9 @@ span{
 }
 .doshbox{
     position: relative;
-    left: 5%;
+    left: 10%;
 }
-.doshbox  h2{
+.doshbox h2{
     font-size: 700%;    
     font-weight: 1000;
     letter-spacing:7px;
