@@ -5,7 +5,7 @@ body{
     background-color: black; 
 }
 .image_cover{
-    background-image: url('');
+    background-image: url('images/stefan-stefancik-5p_7M5MP2Iw-unsplash.jpg');
     background-repeat: no-repeat;
     background-size: 90%;
     background-position-x: right;
@@ -36,6 +36,7 @@ span{
     writing-mode: vertical-rl;
     text-orientation: upright;
     float: right;
+    margin-top: 50px;
 }
 .black_box{
     position: absolute;
@@ -61,7 +62,7 @@ span{
 .green_box{
     background-color: #72ada9a8;
     position: absolute;
-    margin-top: -20%;
+    margin-top: -23%;
     padding-top: 20%;
 }
 .all_content{
@@ -84,9 +85,11 @@ span{
     left: 5%;
 }
 .doshbox  h2{
-    font-size: 650%;
+    font-size: 700%;
     font-weight: 1000;
     letter-spacing: 5px;
+    z-index: 1;
+    position: relative;
 }
 .doshbox h3{
     font-size: 400%;
